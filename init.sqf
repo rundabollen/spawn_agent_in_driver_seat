@@ -1,3 +1,3 @@
 if (hasInterface) then {
-	[] call compile preprocessFileLineNumbers "script\tun_addAgentDriver.sqf";
+	[] call compile preprocessFileLineNumbers "addAgentDriver.sqf";
 };
